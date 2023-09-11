@@ -33,4 +33,28 @@ Keterangan menu di RED_HAWK
 #10. SQL Scanner : Untuk mengecek SQL VS, kelemahan website. 
 #11. Crawler : Berfungsi untuk mengcrawl url yang ada di website. 
 #12. MX lookup  
-#13. Scan for everything  Untuk mencari informasi umum sebuah website, contohnya ip, judul web, robot.txt, dan cms. 
+#13. Scan for everything  Untuk mencari informasi umum sebuah website, contohnya ip, judul web, robot.txt, dan cms
+
+# CARA INSTALL RED_HAWK :
+# apt update && apt upgrade
+# apt install php git
+# git clone https://github.com/HRCXXII/Red-hawk
+# cd RED_HAWK
+# chmod +x rhawk.php
+# php rhawk.php
+
+
+Server detection
+Cloudflare detector
+robots scanner
+Whois
+GEO-IP Scan
+NMAP Port Scan
+DNS Lookup
+SubNet Calculator
+Subdomain Finder
+Reverse IP Scanner
+CMS detection For Sites On the same server.
+Parameter Finder
+Error based SQLi Detector
+DLL
